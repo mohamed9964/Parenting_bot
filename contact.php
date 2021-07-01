@@ -74,8 +74,8 @@ include 'init.php';
                             <i class="icon_pin"></i>
                             <div class="contact_sidevar_content">
                                 <h5>Location</h5>
-                                <p>9 Road, Mirpur Dohs, <br>
-                                    New York</p>
+                                <p>Mansoura university <br>
+                                    Egypt</p>
                             </div>
                         </div>
                         <div class="single_contact_sidebar">
