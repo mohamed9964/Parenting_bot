@@ -56,19 +56,17 @@ include 'init.php';
                     <h2 class="title wow fadeInDown" data-wow-delay=".3s">
                         <div class="title_overlay_effect">Our Consultants</div>
                     </h2>
-                    <p class="description wow fadeInDown" data-wow-delay=".3s">Kidzo mission is to provide affordable,
-                        high-quality
-                        early education and childcare services for working families to ensure every child.</p>
+                    <p class="description wow fadeInDown" data-wow-delay=".3s">We have highly qualified child behavior therapy experts and specialists to help parents solve their children's problems.</p>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-4 col-sm-12 col-md-6">
                 <div class="single_program_list wow fadeInUp" data-wow-delay=".3s">
-                    <img src="layout/img/program_list_1.png" alt="#" class="img-fluid">
+                    <img src="layout/img/team/consultant.png" alt="#" class="img-fluid">
                     <div class="single_program_list_content bg-white">
-                        <h4><a href="event_details.html">Pre-School Lambs</a></h4>
-                        <p>The amazing way to olor sit adipisi sed do consectetur way to olor sit adipisi</p>
+                        <h4><a href="event_details.html">Mostafa Samir</a></h4>
+                        <p>He has more than 10 years of experience in evaluating children's behavior.</p>
                         <div class="program_list_details">
                             <h5><span style="font-size: 30px; color: #12265A;">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -85,10 +83,10 @@ include 'init.php';
             </div>
             <div class="col-lg-4 col-sm-12 col-md-6">
                 <div class="single_program_list wow fadeInUp" data-wow-delay=".4s">
-                    <img src="layout/img/program_list_2.png" alt="#" class="img-fluid">
+                    <img src="layout/img/team/consultant.png" alt="#" class="img-fluid">
                     <div class="single_program_list_content bg-white">
-                        <h4><a href="event_details.html">Master Mind</a></h4>
-                        <p>The amazing way to olor sit adipisi sed do consectetur way to olor sit adipisi</p>
+                        <h4><a href="event_details.html">Mostafa Samir</a></h4>
+                        <p>He has more than 10 years of experience in evaluating children's behavior.</p>
                         <div class="program_list_details">
                             <h5><span style="font-size: 30px; color: #12265A;">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -105,10 +103,10 @@ include 'init.php';
             </div>
             <div class="col-lg-4 col-sm-12 col-md-6">
                 <div class="single_program_list wow fadeInUp" data-wow-delay=".5s">
-                    <img src="layout/img/program_list_3.png" alt="#" class="img-fluid">
+                    <img src="layout/img/team/consultant.png" alt="#" class="img-fluid">
                     <div class="single_program_list_content bg-white">
-                        <h4><a href="event_details.html">Junior Lambs</a></h4>
-                        <p>The amazing way to olor sit adipisi sed do consectetur way to olor sit adipisi</p>
+                        <h4><a href="event_details.html">Mostafa Samir</a></h4>
+                        <p>He has more than 10 years of experience in evaluating children's behavior.</p>
                         <div class="program_list_details">
                             <h5><span style="font-size: 30px; color: #12265A;">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
