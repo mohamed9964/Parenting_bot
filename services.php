@@ -56,7 +56,7 @@ include $tpl . 'header.php';
             <div class="col-lg-7">
                 <div class="section_tittle_style_02">
                     <h2 class="title wow fadeInDown" data-wow-delay=".3s"> <span class="title_overlay_effect">Our Services</span></h2>
-                    <p class="description wow fadeInDown" data-wow-delay=".3s">Kidzo mission is to provide affordable,
+                    <p class="description wow fadeInDown" data-wow-delay=".3s">parenting Bot mission is to provide affordable,
                         high-quality early education and childcare services for working families to ensure every child.
                     </p>
                 </div>
@@ -66,43 +66,32 @@ include $tpl . 'header.php';
             <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".2s">
                 <div class="single_fetures_part">
                     <div class="single_fetures_icon">
-                        <img src="layout/img/program_img/program_img_01.png" alt="#" class="img-fluid">
+                        <img src="layout/img/program_img/serv1.png" alt="#" class="img-fluid">
                     </div>
                     <h4> <a href="about.html"> Articles About Parenting</a></h4>
-                    <p>The amazing way to olor sit adipisicing elit, sed do consectetur </p>
+                    <p>We have qualified content makers to write articles on children's problems. </p>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
                 <div class="single_fetures_part lightblue_bg">
                     <div class="single_fetures_icon">
-                        <img src="layout/img/program_img/program_img_02.png" alt="#" class="img-fluid">
+                        <img src="layout/img/program_img/serv2.png" alt="#" class="img-fluid">
                     </div>
-                    <h4> <a href="about.html">Message With Chatbot</a> </h4>
-                    <p>The amazing way to olor sit adipisicing elit, sed do consectetur </p>
+                    <h4> <a href="about.html">Message With <br> Chatbot</a> </h4>
+                    <p>
+                        Send a message using the AI ​​Smart Chatbot to answer your question.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".8s">
                 <div class="single_fetures_part pink_bg">
                     <div class="single_fetures_icon">
-                        <img src="layout/img/program_img/program_img_03.png" alt="#" class="img-fluid">
+                        <img src="layout/img/program_img/serv3.png" alt="#" class="img-fluid">
                     </div>
                     <h4> <a href="about.html">Contact With Consultant</a> </h4>
-                    <p>The amazing way to olor sit adipisicing elit, sed do consectetur </p>
+                    <p>We have highly qualified child behavior therapy experts and specialist.</p>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="feature_animation_1">
-        <div data-parallax='{"x": 2, "y": 120, "rotateZ":0}'><img src="layout/img/animation_shape/program_list_shape_01.png" alt="#"></div>
-    </div>
-    <div class="feature_animation_2">
-        <div data-parallax='{"x": 10, "y": 100, "rotateZ":0}'><img src="layout/img/animation_shape/program_list_shape_02.png" alt="#"></div>
-    </div>
-    <div class="feature_animation_3">
-        <div data-parallax='{"x": 30, "y": 110, "rotateZ":0}'><img src="layout/img/animation_shape/program_list_shape_03.png" alt="#"></div>
-    </div>
-    <div class="feature_animation_4">
-        <div data-parallax='{"x": 5, "y": 105, "rotateZ":0}'><img src="layout/img/animation_shape/program_list_shape_04.png" alt="#"></div>
     </div>
 </section>
 <!-- Services part end -->
